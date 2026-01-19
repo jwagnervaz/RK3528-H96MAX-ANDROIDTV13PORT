@@ -1,3 +1,5 @@
+
+This port is for V10 Boards only!
 # RK3528-H96MAX-ANDROIDTV13PORT
 
 
